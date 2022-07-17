@@ -1,6 +1,6 @@
 # SQL-PROJECT. Book-Market-Analysis
 
-This is an SQL part of my final project during my studies at Practicum100
+This is an SQL part of my final project during my studies at Practicum100.
 
 The project deals with an analysis of the book market during the times of coronavirus.
 
